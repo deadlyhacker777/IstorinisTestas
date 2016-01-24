@@ -1,0 +1,10 @@
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\bin\Debug\formos.exe
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\bin\Debug\formos.pdb
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\obj\x86\Debug\formos.Properties.Resources.resources
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\obj\x86\Debug\formos.csproj.GenerateResource.Cache
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\obj\x86\Debug\formos.exe
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\obj\x86\Debug\formos.pdb
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\obj\x86\Debug\formos.Testas.resources
+c:\users\pg2666c9\documents\visual studio 2010\Projects\formos\formos\obj\x86\Debug\formos.TestoTemos.resources
+C:\Users\PG2666C9\Documents\Visual Studio 2010\Projects\formos\formos\obj\x86\Debug\formos.Testas2.resources
+C:\Users\PG2666C9\Documents\Visual Studio 2010\Projects\formos\formos\obj\x86\Debug\formos.csprojResolveAssemblyReference.cache
